@@ -1,0 +1,16 @@
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.2 (lin64) Build 2708876 Wed Nov  6 21:39:14 MST 2019
+| Date         : Mon Aug 21 23:57:30 2023
+| Host         : cslab-alder running 64-bit Debian GNU/Linux 12 (bookworm)
+| Command      : upgrade_ip
+| Device       : xc7a200tfbg676-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'ps2'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of ps2 (user.org:user:PS2_CTL:1.0 (Rev. 8)) to Vivado generation flows.
+

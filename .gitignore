@@ -1,0 +1,13 @@
+.vscode
+.idea
+.Xil
+system_run.cache
+system_run.hw
+system_run.runs
+system_run.ip_user_files
+system_run.sim
+hs*.log
+vivado*.log
+vivado*.jou
+vivado*.str
+*.tmp
